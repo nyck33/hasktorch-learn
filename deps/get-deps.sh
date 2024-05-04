@@ -124,6 +124,7 @@ if [ "$SKIP_DOWNLOAD" = 0 ] ; then
 	      "cpu" )   URL=https://download.pytorch.org/libtorch/${COMPUTE_ARCH}/libtorch-cxx11-abi-shared-with-deps-${VERSION}%2Bcpu.zip ;;
 	      "cu117" )   URL=https://download.pytorch.org/libtorch/${COMPUTE_ARCH}/libtorch-cxx11-abi-shared-with-deps-${VERSION}%2Bcu117.zip ;;
 	      "cu118" )   URL=https://download.pytorch.org/libtorch/${COMPUTE_ARCH}/libtorch-cxx11-abi-shared-with-deps-${VERSION}%2Bcu118.zip ;;
+        "cu121")   URL=https://download.pytorch.org/libtorch/${COMPUTE_ARCH}/libtorch-cxx11-abi-shared-with-deps-${VERSION}%2Bcu121.zip ;;
               *)
                   1>&2 printf "Error: invalid value '%s' passed to -a\n\n" "$COMPUTE_ARCH"
                   usage_exit
@@ -148,6 +149,7 @@ if [ ! -e pytorch ] ; then
     git clone https://github.com/pytorch/pytorch.git
 else
     pushd pytorch
+    git fetch --tags
     git pull origin v$VERSION
     popd
 fi
@@ -160,7 +162,8 @@ mkdir build
 fi
 
 
-PYTHON=python
+
+PYTHON=pythonghci
 if ! (python --version | grep "Python 2") ;then
     PYTHON=python3
 fi
