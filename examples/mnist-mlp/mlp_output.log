@@ -1,0 +1,367 @@
+Iteration: 0 | Loss: Tensor Float []  14.7935   
+Iteration: 50 | Loss: Tensor Float []  0.9878   
+Iteration: 100 | Loss: Tensor Float []  0.6336   
+Iteration: 150 | Loss: Tensor Float []  0.6520   
+Iteration: 200 | Loss: Tensor Float []  0.5149   
+Iteration: 250 | Loss: Tensor Float []  0.3757   
+Iteration: 300 | Loss: Tensor Float []  0.2270   
+Iteration: 350 | Loss: Tensor Float []  0.4971   
+Iteration: 400 | Loss: Tensor Float []  0.3389   
+Iteration: 450 | Loss: Tensor Float []  0.6011   
+Iteration: 500 | Loss: Tensor Float []  0.6440   
+Iteration: 550 | Loss: Tensor Float []  0.3485   
+Iteration: 600 | Loss: Tensor Float []  0.2110   
+Iteration: 650 | Loss: Tensor Float []  0.4782   
+Iteration: 700 | Loss: Tensor Float []  0.2149   
+Iteration: 750 | Loss: Tensor Float []  0.1388   
+Iteration: 800 | Loss: Tensor Float []  8.1635e-2
+Iteration: 850 | Loss: Tensor Float []  0.3649   
+Iteration: 900 | Loss: Tensor Float []  3.2738e-2
+Iteration: 950 | Loss: Tensor Float []  0.1466   
+Iteration: 1000 | Loss: Tensor Float []  0.6207   
+Iteration: 1050 | Loss: Tensor Float []  0.2399   
+Iteration: 1100 | Loss: Tensor Float []  0.4311   
+Iteration: 1150 | Loss: Tensor Float []  0.1876   
+Iteration: 1200 | Loss: Tensor Float []  0.3613   
+Iteration: 1250 | Loss: Tensor Float []  0.3689   
+Iteration: 1300 | Loss: Tensor Float []  0.3584   
+Iteration: 1350 | Loss: Tensor Float []  0.6123   
+Iteration: 1400 | Loss: Tensor Float []  0.2669   
+Iteration: 1450 | Loss: Tensor Float []  0.2896   
+Iteration: 1500 | Loss: Tensor Float []  0.3870   
+Iteration: 1550 | Loss: Tensor Float []  0.3072   
+Iteration: 1600 | Loss: Tensor Float []  0.1737   
+Iteration: 1650 | Loss: Tensor Float []  0.6392   
+Iteration: 1700 | Loss: Tensor Float []  7.5194e-2
+Iteration: 1750 | Loss: Tensor Float []  0.4052   
+Iteration: 1800 | Loss: Tensor Float []  0.2090   
+Iteration: 1850 | Loss: Tensor Float []  7.0838e-2
+Iteration: 0 | Loss: Tensor Float []  0.2916   
+Iteration: 50 | Loss: Tensor Float []  0.2288   
+Iteration: 100 | Loss: Tensor Float []  0.3809   
+Iteration: 150 | Loss: Tensor Float []  0.1136   
+Iteration: 200 | Loss: Tensor Float []  0.1794   
+Iteration: 250 | Loss: Tensor Float []  0.2394   
+Iteration: 300 | Loss: Tensor Float []  8.6885e-2
+Iteration: 350 | Loss: Tensor Float []  0.3122   
+Iteration: 400 | Loss: Tensor Float []  0.1240   
+Iteration: 450 | Loss: Tensor Float []  0.2183   
+Iteration: 500 | Loss: Tensor Float []  0.2667   
+Iteration: 550 | Loss: Tensor Float []  0.1398   
+Iteration: 600 | Loss: Tensor Float []  0.1601   
+Iteration: 650 | Loss: Tensor Float []  0.3469   
+Iteration: 700 | Loss: Tensor Float []  5.0165e-2
+Iteration: 750 | Loss: Tensor Float []  0.1429   
+Iteration: 800 | Loss: Tensor Float []  2.0536e-2
+Iteration: 850 | Loss: Tensor Float []  0.3189   
+Iteration: 900 | Loss: Tensor Float []  8.4662e-3
+Iteration: 950 | Loss: Tensor Float []  0.1155   
+Iteration: 1000 | Loss: Tensor Float []  0.3650   
+Iteration: 1050 | Loss: Tensor Float []  0.1424   
+Iteration: 1100 | Loss: Tensor Float []  0.2805   
+Iteration: 1150 | Loss: Tensor Float []  0.1587   
+Iteration: 1200 | Loss: Tensor Float []  0.3338   
+Iteration: 1250 | Loss: Tensor Float []  0.2664   
+Iteration: 1300 | Loss: Tensor Float []  0.2043   
+Iteration: 1350 | Loss: Tensor Float []  0.3691   
+Iteration: 1400 | Loss: Tensor Float []  0.1363   
+Iteration: 1450 | Loss: Tensor Float []  0.2699   
+Iteration: 1500 | Loss: Tensor Float []  0.2635   
+Iteration: 1550 | Loss: Tensor Float []  0.2199   
+Iteration: 1600 | Loss: Tensor Float []  0.1653   
+Iteration: 1650 | Loss: Tensor Float []  0.4847   
+Iteration: 1700 | Loss: Tensor Float []  2.7218e-2
+Iteration: 1750 | Loss: Tensor Float []  0.2338   
+Iteration: 1800 | Loss: Tensor Float []  0.1269   
+Iteration: 1850 | Loss: Tensor Float []  0.1200   
+Iteration: 0 | Loss: Tensor Float []  0.1781   
+Iteration: 50 | Loss: Tensor Float []  0.2672   
+Iteration: 100 | Loss: Tensor Float []  0.2170   
+Iteration: 150 | Loss: Tensor Float []  9.1503e-2
+Iteration: 200 | Loss: Tensor Float []  0.1166   
+Iteration: 250 | Loss: Tensor Float []  0.1788   
+Iteration: 300 | Loss: Tensor Float []  5.3901e-2
+Iteration: 350 | Loss: Tensor Float []  0.2707   
+Iteration: 400 | Loss: Tensor Float []  7.2315e-2
+Iteration: 450 | Loss: Tensor Float []  0.2126   
+Iteration: 500 | Loss: Tensor Float []  0.1798   
+Iteration: 550 | Loss: Tensor Float []  0.1104   
+Iteration: 600 | Loss: Tensor Float []  9.3614e-2
+Iteration: 650 | Loss: Tensor Float []  0.2714   
+Iteration: 700 | Loss: Tensor Float []  2.9847e-2
+Iteration: 750 | Loss: Tensor Float []  0.1385   
+Iteration: 800 | Loss: Tensor Float []  2.6213e-2
+Iteration: 850 | Loss: Tensor Float []  0.3261   
+Iteration: 900 | Loss: Tensor Float []  7.8931e-3
+Iteration: 950 | Loss: Tensor Float []  8.0197e-2
+Iteration: 1000 | Loss: Tensor Float []  0.2057   
+Iteration: 1050 | Loss: Tensor Float []  6.7234e-2
+Iteration: 1100 | Loss: Tensor Float []  0.1638   
+Iteration: 1150 | Loss: Tensor Float []  9.7986e-2
+Iteration: 1200 | Loss: Tensor Float []  0.3095   
+Iteration: 1250 | Loss: Tensor Float []  0.2365   
+Iteration: 1300 | Loss: Tensor Float []  0.1909   
+Iteration: 1350 | Loss: Tensor Float []  0.2403   
+Iteration: 1400 | Loss: Tensor Float []  0.1146   
+Iteration: 1450 | Loss: Tensor Float []  0.2196   
+Iteration: 1500 | Loss: Tensor Float []  0.2432   
+Iteration: 1550 | Loss: Tensor Float []  0.1961   
+Iteration: 1600 | Loss: Tensor Float []  0.1001   
+Iteration: 1650 | Loss: Tensor Float []  0.3512   
+Iteration: 1700 | Loss: Tensor Float []  1.7798e-2
+Iteration: 1750 | Loss: Tensor Float []  0.1852   
+Iteration: 1800 | Loss: Tensor Float []  0.1280   
+Iteration: 1850 | Loss: Tensor Float []  0.1233   
+Iteration: 0 | Loss: Tensor Float []  0.1381   
+Iteration: 50 | Loss: Tensor Float []  0.2629   
+Iteration: 100 | Loss: Tensor Float []  0.1648   
+Iteration: 150 | Loss: Tensor Float []  9.1450e-2
+Iteration: 200 | Loss: Tensor Float []  8.9872e-2
+Iteration: 250 | Loss: Tensor Float []  0.1383   
+Iteration: 300 | Loss: Tensor Float []  5.3155e-2
+Iteration: 350 | Loss: Tensor Float []  0.2231   
+Iteration: 400 | Loss: Tensor Float []  6.3808e-2
+Iteration: 450 | Loss: Tensor Float []  0.2089   
+Iteration: 500 | Loss: Tensor Float []  0.1232   
+Iteration: 550 | Loss: Tensor Float []  7.9689e-2
+Iteration: 600 | Loss: Tensor Float []  8.7753e-2
+Iteration: 650 | Loss: Tensor Float []  0.2591   
+Iteration: 700 | Loss: Tensor Float []  2.0518e-2
+Iteration: 750 | Loss: Tensor Float []  0.1322   
+Iteration: 800 | Loss: Tensor Float []  3.3179e-2
+Iteration: 850 | Loss: Tensor Float []  0.3258   
+Iteration: 900 | Loss: Tensor Float []  6.3585e-3
+Iteration: 950 | Loss: Tensor Float []  8.8630e-2
+Iteration: 1000 | Loss: Tensor Float []  0.2327   
+Iteration: 1050 | Loss: Tensor Float []  5.2644e-2
+Iteration: 1100 | Loss: Tensor Float []  0.1441   
+Iteration: 1150 | Loss: Tensor Float []  9.4873e-2
+Iteration: 1200 | Loss: Tensor Float []  0.2761   
+Iteration: 1250 | Loss: Tensor Float []  0.2186   
+Iteration: 1300 | Loss: Tensor Float []  0.1759   
+Iteration: 1350 | Loss: Tensor Float []  0.1818   
+Iteration: 1400 | Loss: Tensor Float []  7.3213e-2
+Iteration: 1450 | Loss: Tensor Float []  0.1829   
+Iteration: 1500 | Loss: Tensor Float []  0.2103   
+Iteration: 1550 | Loss: Tensor Float []  0.1377   
+Iteration: 1600 | Loss: Tensor Float []  7.1416e-2
+Iteration: 1650 | Loss: Tensor Float []  0.3274   
+Iteration: 1700 | Loss: Tensor Float []  1.9878e-2
+Iteration: 1750 | Loss: Tensor Float []  0.1834   
+Iteration: 1800 | Loss: Tensor Float []  0.1206   
+Iteration: 1850 | Loss: Tensor Float []  0.1126   
+Iteration: 0 | Loss: Tensor Float []  0.1127   
+Iteration: 50 | Loss: Tensor Float []  0.2576   
+Iteration: 100 | Loss: Tensor Float []  0.1134   
+Iteration: 150 | Loss: Tensor Float []  8.5069e-2
+Iteration: 200 | Loss: Tensor Float []  6.0878e-2
+Iteration: 250 | Loss: Tensor Float []  0.1001   
+Iteration: 300 | Loss: Tensor Float []  6.2345e-2
+Iteration: 350 | Loss: Tensor Float []  0.2234   
+Iteration: 400 | Loss: Tensor Float []  6.3494e-2
+Iteration: 450 | Loss: Tensor Float []  0.2008   
+Iteration: 500 | Loss: Tensor Float []  9.3527e-2
+Iteration: 550 | Loss: Tensor Float []  8.1458e-2
+Iteration: 600 | Loss: Tensor Float []  7.3895e-2
+Iteration: 650 | Loss: Tensor Float []  0.2529   
+Iteration: 700 | Loss: Tensor Float []  1.6272e-2
+Iteration: 750 | Loss: Tensor Float []  0.1266   
+Iteration: 800 | Loss: Tensor Float []  3.2782e-2
+Iteration: 850 | Loss: Tensor Float []  0.3316   
+Iteration: 900 | Loss: Tensor Float []  6.2016e-3
+Iteration: 950 | Loss: Tensor Float []  7.4830e-2
+Iteration: 1000 | Loss: Tensor Float []  0.1508   
+Iteration: 1050 | Loss: Tensor Float []  4.1786e-2
+Iteration: 1100 | Loss: Tensor Float []  0.1240   
+Iteration: 1150 | Loss: Tensor Float []  0.1037   
+Iteration: 1200 | Loss: Tensor Float []  0.2493   
+Iteration: 1250 | Loss: Tensor Float []  0.1903   
+Iteration: 1300 | Loss: Tensor Float []  0.1542   
+Iteration: 1350 | Loss: Tensor Float []  0.1288   
+Iteration: 1400 | Loss: Tensor Float []  6.5355e-2
+Iteration: 1450 | Loss: Tensor Float []  0.1497   
+Iteration: 1500 | Loss: Tensor Float []  0.1755   
+Iteration: 1550 | Loss: Tensor Float []  0.1105   
+Iteration: 1600 | Loss: Tensor Float []  7.6827e-2
+Iteration: 1650 | Loss: Tensor Float []  0.3088   
+Iteration: 1700 | Loss: Tensor Float []  2.0256e-2
+Iteration: 1750 | Loss: Tensor Float []  0.1529   
+Iteration: 1800 | Loss: Tensor Float []  9.8801e-2
+Iteration: 1850 | Loss: Tensor Float []  0.1003   
+              
+              
+              
+              
+   #%%*****   
+      ::: %   
+         %:   
+        :%    
+        #:    
+       :%     
+       %.     
+      #=      
+     :%.      
+     =#       
+Model        : Tensor Int64 [1] [ 7]
+Ground Truth : Tensor Int64 [1] [ 7]
+              
+              
+     %%%#     
+    %#  %     
+    .  #%     
+      :%:     
+      %+      
+     *%       
+     %=       
+    %%        
+    %%%%++%%%=
+     ==%%=.   
+              
+              
+Model        : Tensor Int64 [1] [ 2]
+Ground Truth : Tensor Int64 [1] [ 2]
+              
+              
+        .-    
+        =     
+        %     
+       .#     
+       =:     
+       @      
+       #      
+      ++      
+      %:      
+      %       
+              
+              
+Model        : Tensor Int64 [1] [ 1]
+Ground Truth : Tensor Int64 [1] [ 1]
+              
+              
+       %.     
+      *%-     
+     %%%%#    
+    :%%+:%-   
+    %%   -%.  
+    %    .@+  
+    %    %%.  
+    %   #%*   
+    %%%%%%    
+    :%%%-     
+              
+              
+Model        : Tensor Int64 [1] [ 0]
+Ground Truth : Tensor Int64 [1] [ 0]
+              
+              
+              
+     =    +   
+     %    %   
+    +.    %   
+    %    %:   
+    +    %    
+    %--=*%    
+     :: +%    
+        =%    
+        =%    
+        *     
+              
+Model        : Tensor Int64 [1] [ 4]
+Ground Truth : Tensor Int64 [1] [ 4]
+              
+              
+              
+        %@    
+        @:    
+       =@     
+       @%     
+       @      
+      :@      
+      %#      
+      @       
+      @       
+      +       
+              
+Model        : Tensor Int64 [1] [ 1]
+Ground Truth : Tensor Int64 [1] [ 1]
+              
+              
+              
+     %     %  
+    %     %   
+   +#    -+   
+   +%*::*%    
+    :%==%+    
+        %     
+       ++     
+       %      
+       %-+    
+       *      
+              
+Model        : Tensor Int64 [1] [ 4]
+Ground Truth : Tensor Int64 [1] [ 4]
+              
+              
+              
+      +       
+     %%+      
+    .%*%%     
+    -: *%     
+    -#-%%.    
+     %% =#    
+         %    
+         .%   
+          #.  
+           %  
+              
+Model        : Tensor Int64 [1] [ 9]
+Ground Truth : Tensor Int64 [1] [ 9]
+              
+              
+         ..=. 
+      .%%%%%% 
+     ::%+:    
+    %         
+   %          
+   %=         
+   %%%%%%+    
+     :%%%%    
+      %%%%    
+       %#     
+              
+              
+Model        : Tensor Int64 [1] [ 5]
+Ground Truth : Tensor Int64 [1] [ 5]
+              
+              
+              
+              
+      +%%%#   
+    +%*  .%%  
+   :%.  .#%+  
+    %@%%%%*   
+       +%-    
+      -%#     
+      %%      
+     %%       
+     %=       
+     @        
+Model        : Tensor Int64 [1] [ 9]
+Ground Truth : Tensor Int64 [1] [ 9]
+              
+              
+       ==:    
+     %%**%%   
+    .%    %:  
+    *-    +#  
+    %     :#  
+    #     :#  
+   -#     +#  
+   -#    .%   
+    #   +%:   
+    #%%%%=    
+              
+              
+Model        : Tensor Int64 [1] [ 0]
+Ground Truth : Tensor Int64 [1] [ 0]
+Done
