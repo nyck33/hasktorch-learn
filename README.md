@@ -1,3 +1,199 @@
+### ran mnist example:
+```bash
+.
+.
+.
+Iteration: 1400 | Loss: Tensor Float []  6.5355e-2
+Iteration: 1450 | Loss: Tensor Float []  0.1497   
+Iteration: 1500 | Loss: Tensor Float []  0.1755   
+Iteration: 1550 | Loss: Tensor Float []  0.1105   
+Iteration: 1600 | Loss: Tensor Float []  7.6827e-2
+Iteration: 1650 | Loss: Tensor Float []  0.3088   
+Iteration: 1700 | Loss: Tensor Float []  2.0256e-2
+Iteration: 1750 | Loss: Tensor Float []  0.1529   
+Iteration: 1800 | Loss: Tensor Float []  9.8801e-2
+Iteration: 1850 | Loss: Tensor Float []  0.1003   
+              
+              
+              
+              
+   #%%*****   
+      ::: %   
+         %:   
+        :%    
+        #:    
+       :%     
+       %.     
+      #=      
+     :%.      
+     =#       
+Model        : Tensor Int64 [1] [ 7]
+Ground Truth : Tensor Int64 [1] [ 7]
+              
+              
+     %%%#     
+    %#  %     
+    .  #%     
+      :%:     
+      %+      
+     *%       
+     %=       
+    %%        
+    %%%%++%%%=
+     ==%%=.   
+              
+              
+Model        : Tensor Int64 [1] [ 2]
+Ground Truth : Tensor Int64 [1] [ 2]
+              
+              
+        .-    
+        =     
+        %     
+       .#     
+       =:     
+       @      
+       #      
+      ++      
+      %:      
+      %       
+              
+              
+Model        : Tensor Int64 [1] [ 1]
+Ground Truth : Tensor Int64 [1] [ 1]
+              
+              
+       %.     
+      *%-     
+     %%%%#    
+    :%%+:%-   
+    %%   -%.  
+    %    .@+  
+    %    %%.  
+    %   #%*   
+    %%%%%%    
+    :%%%-     
+              
+              
+Model        : Tensor Int64 [1] [ 0]
+Ground Truth : Tensor Int64 [1] [ 0]
+              
+              
+              
+     =    +   
+     %    %   
+    +.    %   
+    %    %:   
+    +    %    
+    %--=*%    
+     :: +%    
+        =%    
+        =%    
+        *     
+              
+Model        : Tensor Int64 [1] [ 4]
+Ground Truth : Tensor Int64 [1] [ 4]
+              
+              
+              
+        %@    
+        @:    
+       =@     
+       @%     
+       @      
+      :@      
+      %#      
+      @       
+      @       
+      +       
+              
+Model        : Tensor Int64 [1] [ 1]
+Ground Truth : Tensor Int64 [1] [ 1]
+              
+              
+              
+     %     %  
+    %     %   
+   +#    -+   
+   +%*::*%    
+    :%==%+    
+        %     
+       ++     
+       %      
+       %-+    
+       *      
+              
+Model        : Tensor Int64 [1] [ 4]
+Ground Truth : Tensor Int64 [1] [ 4]
+              
+              
+              
+      +       
+     %%+      
+    .%*%%     
+    -: *%     
+    -#-%%.    
+     %% =#    
+         %    
+         .%   
+          #.  
+           %  
+              
+Model        : Tensor Int64 [1] [ 9]
+Ground Truth : Tensor Int64 [1] [ 9]
+              
+              
+         ..=. 
+      .%%%%%% 
+     ::%+:    
+    %         
+   %          
+   %=         
+   %%%%%%+    
+     :%%%%    
+      %%%%    
+       %#     
+              
+              
+Model        : Tensor Int64 [1] [ 5]
+Ground Truth : Tensor Int64 [1] [ 5]
+              
+              
+              
+              
+      +%%%#   
+    +%*  .%%  
+   :%.  .#%+  
+    %@%%%%*   
+       +%-    
+      -%#     
+      %%      
+     %%       
+     %=       
+     @        
+Model        : Tensor Int64 [1] [ 9]
+Ground Truth : Tensor Int64 [1] [ 9]
+              
+              
+       ==:    
+     %%**%%   
+    .%    %:  
+    *-    +#  
+    %     :#  
+    #     :#  
+   -#     +#  
+   -#    .%   
+    #   +%:   
+    #%%%%=    
+              
+              
+Model        : Tensor Int64 [1] [ 0]
+Ground Truth : Tensor Int64 [1] [ 0]
+Done
+
+```
+
+
 # Hasktorch
 
 Hasktorch is a library for tensors and neural networks in Haskell.
